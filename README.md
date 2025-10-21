@@ -6,7 +6,7 @@ Built with **HTML**, **CSS** and **JavaScript**.
 ## ✨ Features
 - Generate strong random passwords
 - Custom password length
-- Include uppercase, lowercase, numbers, and symbols
+- Include uppercase, lowercase, numbers and symbols
 - Copy password to clipboard
 
 ## 🛠️ Technologies Used
