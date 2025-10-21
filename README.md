@@ -3,6 +3,11 @@
 A simple web app that generates strong, random passwords.  
 Built with **HTML**, **CSS** and **JavaScript**.
 
+![App Screenshot](image.png)
+
+## 🚀 Live Demo
+[View Live Demo](https://shaimoom251283.github.io/Password_Generator/)
+
 ## ✨ Features
 - Generate strong random passwords
 - Custom password length
