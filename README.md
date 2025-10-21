@@ -1,7 +1,7 @@
 # 🔐 Password Generator
 
 A simple web app that generates strong, random passwords.  
-Built with **HTML**, **CSS**, and **JavaScript**.
+Built with **HTML**, **CSS** and **JavaScript**.
 
 ## ✨ Features
 - Generate strong random passwords
